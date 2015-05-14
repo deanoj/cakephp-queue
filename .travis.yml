@@ -7,8 +7,8 @@ php:
 
 env:
   global:
-    - REPO_NAME=cakephp-shim
-    - PLUGIN_NAME=Shim
+    - REPO_NAME=cakephp-queue
+    - PLUGIN_NAME=Queue
     - REQUIRE=""
 
   matrix:
